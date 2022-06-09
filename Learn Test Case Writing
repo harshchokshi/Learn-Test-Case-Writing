@@ -1,0 +1,9 @@
+Test Case Description for opening and closing the window.
+To verify that user is able to open/close <Window Name> window.
+Expected Result 1: User should able to open <Window Name> window.
+Expected Result 2: User should able to close <Window Name> window.
+
+Test Case Description for image slider.
+To verify that user is able to get image slider on <page name> page and images in slider is automatically change.
+Step: 
+Expected Result 1: 
