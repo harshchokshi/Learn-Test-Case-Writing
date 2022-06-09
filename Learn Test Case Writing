@@ -1,9 +1,14 @@
-Test Case Description for opening and closing the window.
-To verify that user is able to open/close <Window Name> window.
+Test Case for opening and closing the window.
+Description: To verify that user is able to open/close <Window Name> window.
 Expected Result 1: User should able to open <Window Name> window.
 Expected Result 2: User should able to close <Window Name> window.
 
-Test Case Description for image slider.
-To verify that user is able to get image slider on <page name> page and images in slider is automatically change.
-Step: 
-Expected Result 1: 
+Test Case for image slider functionality.
+1) Description: To verify that user is able to get image slider on <page name> page and images in slider is automatically change.
+Step: Observe <page name> and wait for specific duration to change images automatically.
+Expected Result 1: User should able to get the images change automatically on <page name>.
+2) Description: To verify that user able to change images functionality by clicking next/previous button from <page name>.
+Step: Click on "Next" button from about us section.		
+User should get next image on <page name>.
+Step: Click on "Previous" button from <page name>.	
+User should get previous image on <page name>.	
